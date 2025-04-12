@@ -27,7 +27,7 @@ public class WordList
         myList.remove(i);
       }
       else{
-        i++
+        i++;
     }
   }
 }
